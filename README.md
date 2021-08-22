@@ -1,9 +1,9 @@
+
 ### Hi there 👋 I'm job-seeker who want to be a DataScientist in South Korea.
 
 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/> <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
-<img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
-<img src="https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS"/>
+<img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/> <img src="https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS"/>
 <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
 
 
