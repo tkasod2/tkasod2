@@ -1,4 +1,5 @@
-### Hi there 👋 My Name is Beomsang-Ryu
+### Hi there 👋 I'm job-seeker who want to be a DataScientist in South Korea.
+
 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/> <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
 <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
