@@ -7,7 +7,7 @@
   <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
-#### Main_skills
+#### Main Skills
 <p>
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
     <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
@@ -18,9 +18,10 @@
     <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=PyTorch"/>
     <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon AWS"/>
     <img src="https://img.shields.io/badge/-Spark-000000?style=flat&logo=ApacheSpark"/>
+    <img src="https://img.shields.io/badge/-Spark-000000?style=flat&logo=ApacheSpark"/>
 </p>
 
-#### Sub_skills
+#### Sub Skills
 <p>
     <img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=Slack"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"/>
