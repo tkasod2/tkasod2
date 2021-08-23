@@ -4,7 +4,7 @@
 <p>
   <a href="https://aeda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:92aeda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/92aeda@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca-EA4335?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://img.shields.io/badge/Notion-EA4335?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 #### Main_skills
