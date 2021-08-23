@@ -24,7 +24,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=Slack"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"/>
-    <img src="https://img.shields.io/badge/-Tableu-000000?style=flat&logo=Tableu"/>
+    <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"/>
     <img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
 </p>
 
