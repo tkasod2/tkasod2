@@ -6,17 +6,26 @@
   <a href="mailto:92aeda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/92aeda@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
+#### Main_skills
 <p>
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
     <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
     <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
     <img src="https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS"/>
     <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
-    <img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
-    <img src="https://img.shields.io/badge/-scikitlearn-000000?style=flat&logo=scikitlearn"/>
+    <img src="https://img.shields.io/badge/-Scikitlearn-000000?style=flat&logo=scikitlearn"/>
+    <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=PyTorch"/>
+    <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=AWS"/>
+    <img src="https://img.shields.io/badge/-Spark-000000?style=flat&logo=ApacheSpark"/>
 </p>
 
+#### Sub_skills
+<p>
+    <img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=Slack"/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"/>
+    <img src="https://img.shields.io/badge/-Tableu-000000?style=flat&logo=Tableu"/>
+    <img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
+</p>
 
 
 
