@@ -3,14 +3,14 @@
 
 <p>
   <a href="https://aeda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:92aeda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/is92aeda@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:92aeda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/92aeda@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
 <p>
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/> <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
-<img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/> <img src="https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS"/>
-<img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/> <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
+    <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/> <img src="https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS"/>
+    <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/><img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
 </p>
 
 
