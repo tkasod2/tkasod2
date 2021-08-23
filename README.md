@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=PyTorch"/>
     <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon AWS"/>
     <img src="https://img.shields.io/badge/-Spark-000000?style=flat&logo=ApacheSpark"/>
-    <img src="https://img.shields.io/badge/-Spark-000000?style=flat&logo=ApacheSpark"/>
+
 </p>
 
 #### Sub Skills
