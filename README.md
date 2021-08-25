@@ -1,13 +1,17 @@
 
-### Hi there 👋 I'm job-seeker who want to be a DataScientist in South Korea.
-
+## Hi there 👋 I'm job-seeker who want to be a DataScientist in South Korea.  
+<br>
+<h3> 🔍link in bio </h3>
 <p>
-  <a href="https://aeda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:92aeda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/92aeda@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</p>
 
-#### Main Skills
+  <a href="https://aeda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-009900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a><br>
+  <a href="mailto:92aeda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/92aeda@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
+  <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
+
+</p>
+<br>
+
+### 👍Main Skills
 <p>
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
     <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
@@ -21,7 +25,7 @@
 
 </p>
 
-#### Sub Skills
+### 🙌Sub Skills
 <p>
     <img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=Slack"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"/>
