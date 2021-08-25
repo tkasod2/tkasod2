@@ -9,7 +9,7 @@
   <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
 
 </p>
-<hr align="center" style="dotted 10px; width: 50%">
+<hr align="center" style="width: 50%">
 
 ### 👍Main Skills
 <p>
