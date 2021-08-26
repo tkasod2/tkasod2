@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
 </p>
 
+![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=tkasod2&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=tkasod2&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
 
 
