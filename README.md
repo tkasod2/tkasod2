@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm job-seeker who want to be a DataScientist in South Korea.  
+## Hi there 👋 I'm job-seeker who want to be a DataScientist/DataAnalysist in South Korea.  
 <br>
 <h3> 🔍link in bio </h3>
 <p>
@@ -11,7 +11,7 @@
 </p>
 <hr align="center" style="width: 50%">
 
-### 👍Main Skills
+## 👍Main Skills
 <p>
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
     <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
@@ -25,15 +25,22 @@
 
 </p>
 
-### 🙌Sub Skills
+## 🙌Sub Skills
 <p>
     <img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=Slack"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"/>
     <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"/>
-    <img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
+    
+</p>
+
+### 🧑And I can do these too :)
+<p>
+  <img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
+
 </p>
 
 ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=tkasod2&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=tkasod2&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
 
