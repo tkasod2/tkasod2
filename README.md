@@ -1,5 +1,5 @@
+## Hi there 👋 I'm job-seeker who want to be a DataScientist/DataAnalysist in South Korea.
 
-## Hi there 👋 I'm job-seeker who want to be a DataScientist/DataAnalysist in South Korea.  
 <br>
 <h3> 🔍link in bio </h3>
 <p>
@@ -9,7 +9,7 @@
   <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
 
 </p>
-<hr align="center" style="width: 50%">
+<hr>
 
 ## 👍Main Skills
 <p>
@@ -33,11 +33,13 @@
     
 </p>
 
-### 🧑And I can do these too :)
+## 🧑And I can do these too :)
 <p>
   <img src="https://img.shields.io/badge/-AbletonLive-000000?style=flat&logo=AbletonLive"/>
 
 </p>
+
+<hr>
 
 ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=tkasod2&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
