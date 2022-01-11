@@ -1,4 +1,4 @@
-## Hi there 👋 I'm job-seeker who want to be a DataScientist/DataAnalysist in South Korea.
+## Hi there 👋 I'm job-seeker who want to be a DataAnalysist in South Korea.
 
 <br>
 <h3> 🔍link in bio </h3>
