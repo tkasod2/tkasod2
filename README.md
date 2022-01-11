@@ -1,4 +1,4 @@
-## Hi there 👋 I'm job-seeker who want to be a DataAnalysist in South Korea.
+## Hi there 👋 I'm job-seeker who want to be a Data Analysist in South Korea.
 
 <br>
 <h3> 🔍link in bio </h3>
@@ -16,12 +16,15 @@
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
     <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
     <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
-    <img src="https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS"/>
-    <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
     <img src="https://img.shields.io/badge/-Scikitlearn-000000?style=flat&logo=scikitlearn"/>
-    <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=PyTorch"/>
     <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon AWS"/>
-    <img src="https://img.shields.io/badge/-Spark-000000?style=flat&logo=ApacheSpark"/>
+    <img src="https://img.shields.io/badge/-Google Analytics-000000?style=flat&logo=Google Analytics"/>
+    <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"/>
+    <img src="https://img.shields.io/badge/-pandas-000000?style=flat&logo=pandas">
+    <img src="https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql">
+    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL"/>
+    
+
 
 </p>
 
@@ -29,7 +32,8 @@
 <p>
     <img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=Slack"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"/>
-    <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau"/>
+    <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
+    
     
 </p>
 
