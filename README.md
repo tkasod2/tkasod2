@@ -6,8 +6,7 @@
 
   <a href="https://92aeda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-009900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a><br>
   <a href="mailto:92aeda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/92aeda@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
-  <a href="https://www.notion.so/Data-Scientist-cd3f91dd843d47d18fc6e4fcd0d861ca" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
-
+ 
 </p>
 <hr>
 
